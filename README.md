@@ -46,7 +46,3 @@ This project is an **E-commerce platform** built using a microservices architect
    npm install
    npm run dev
    ```
-
-## License
-
-This project is licensed under the MIT License.
