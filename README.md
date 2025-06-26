@@ -45,4 +45,3 @@ This project is an **E-commerce platform** built using a microservices architect
    cd services/client
    npm install
    npm run dev
-   ```
